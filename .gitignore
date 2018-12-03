@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# Webpack Bundle
+bundle.js
+
+# SSL
+server.cert
+server.key
